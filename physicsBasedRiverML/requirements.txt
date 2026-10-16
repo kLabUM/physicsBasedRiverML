@@ -1,0 +1,11 @@
+# Python 3.11. Pinned to the versions that produced the paper's numbers and figures.
+numpy==2.4.6
+pandas==2.3.3
+scipy==1.17.1
+scikit-learn==1.9.0
+matplotlib==3.10.9
+geopandas==1.1.4
+shapely==2.1.2
+pyproj==3.7.2
+pyogrio==0.13.0
+pillow==12.3.0
