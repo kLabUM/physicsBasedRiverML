@@ -1,0 +1,33 @@
+{
+ "description": "ArcGIS export of the Huron River watershed used as the basemap of Figure 2a, and its georeference. Pixel coordinates of a (lon, lat) point: px = (p0*lon + p1)*s - ox + 100, py = (p2*mercator(lat) + p3)*s - oy + 100, with mercator(lat) = ln(tan(pi/4 + lat/2)); fitted by registering the image to the river centerlines.",
+ "attribution": "Basemap: Esri, NASA, NGA, USGS, TomTom, Garmin, FAO, NOAA, OpenStreetMap contributors, GIS User Community",
+ "p": [
+  1909.115069723977,
+  161060.72393746168,
+  -85055.8505919945,
+  71230.31395323532
+ ],
+ "s": 0.3925,
+ "ox": 105,
+ "oy": 218,
+ "crop_px": [
+  55,
+  895,
+  222,
+  812
+ ],
+ "label_px": {
+  "sensor": [
+   268.7661908373205,
+   434.66044463403665
+  ],
+  "reach": [
+   335.3,
+   680.2
+  ]
+ },
+ "sensor_px": [
+  312.358,
+  496.916
+ ]
+}

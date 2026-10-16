@@ -1,0 +1,12 @@
+scale,unit,metric,six-feature model,baseline
+Space: one section held out (20 folds),Points,CRPS of ln A,0.3168296666661749,0.437 (reach mean)
+,Points,95% interval coverage,0.914396887159533,0.95 (reach mean)
+,Sections (n = 20),Mean in 90% interval,16 / 20,11 / 20 (bank distance)
+,Sections,MAE of section mean ln A,0.19444461867314722,0.23 (bank distance)
+,Points,"CRPS, random 10-fold",0.2853780682030958,0.436 (reach mean)
+Time: one survey day held out (11 folds),Points,CRPS of ln a,0.3164768290256921,0.394 (no stage law)
+,Points,95% interval coverage,0.9455252918287936,0.87 (no stage law)
+,"Readings (n = 1,208)",MAE of velocity (m/s),0.0815420371391428,0.119 (spread of readings)
+,Readings,95% interval coverage,0.8849337748344371,
+,Sections (n = 20),Mean velocity in 90% interval,20 / 20,
+,Sections,MAE of mean velocity (m/s),0.04821534703549782,
